@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">test-app2</string>
-    <string name="liferay_server">http://192.168.1.53</string>
-    <integer name="liferay_company_id">20116</integer>
-    <integer name="liferay_group_id">36659</integer>
+    <string name="app_name">Liferay Screens Demo</string>
+    <string name="liferay_server">http://[SERVER_IP_OR_DOMAIN]</string>
+    <integer name="liferay_company_id">[COMPANY_ID]</integer>
+    <integer name="liferay_group_id">[GROUP_ID]</integer>
     <integer name="liferay_portal_version">70</integer>
+    <string name="liferay_article_id">[WEB_CONTENT_ARTICLE_ID]</string>
 
 </resources>

@@ -10,7 +10,7 @@
     <com.liferay.mobile.screens.webcontent.display.WebContentDisplayScreenlet
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        liferay:articleId="SVB-SELF-SERVICE-BOX"
+        liferay:articleId="@string/liferay_article_id"
         />
 
 </android.support.constraint.ConstraintLayout>
